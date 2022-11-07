@@ -1,0 +1,32 @@
+sign,ID,Character,Words,Jump
+#,0,Bloodhound,Hello Legend! Welcome to the game! I am Bloodhound and I am going to teach you some basic skills before you can enter your first game of Apex Legend.,1
+&,1,player,Great! Lets get started! ,3
+&,2,player,I am not ready. ,3
+#,3,Bloodhound,No worry I would teach you step by step.,4
+#,4,Bloodhound,Lets get started with the rules of the game.,5
+#,5,Horizon,First of all. There are 20 teams in each game.,6
+#,6,Horizon,Each team has 3 players. Each players can choose the legend they want to use before each game.,7
+#,7,Horizon,Every legend have 3 skills. Passive /tactical ability and ultimate ability. Which could help them and their teammates during the game.,8
+#,8,Horizon,There are four legend types: attack/ defence/ support and recon. Players should build their team based on the play-style and different map.,9
+#,9,Horizon,Each game there would be drop ship flying through the map which has random route.,10
+#,10,Horizon,Each team could choose the location want to loot and leave the ship at any time.,11
+#,11,Horizon,Players have to search for resources such as weapons and healing packages and try to eliminate others with their teammates.,12
+#,12,Horizon,There would be multiple rings closing during the game play. If the player stay outside of the safe ring they would be damaged.,13
+#,13,Horizon,The ring would dealing more damaged to the player as the time pass.,14
+#,14,Horizon,For example the second ring would deal 1.5 times damage than the first ring.,15
+#,15,Horizon,The last team that survived would be the champion. Which is the final target.,16
+#,16,Bloodhound,Any questions about the rules?,17
+&,17,player,What is the final target?,19
+&,18,player,What should I do after landing?,20
+#,19,Bloodhound,Eliminate other teams and try to be the last team survived.,21
+#,20,Bloodhound,Try to get more resource and armed yourself. Look the map and try to plan your way the safe zone.,21
+#,21,Bloodhound,Any more questions before entering the game?,22
+&,22,player,Angthing else I should know?.,24
+&,23,player,I am ready.,25
+#,24,Horizon,Eliminate other players is fun but stick with the safe zone and try to get better position in the zone is also important. Rotate early would not be a bad choice mostly.,26
+#,25,Horizon,Good luck Legend! See you in the game!,28
+#,26,Horizon,Use your legend skills and try to corporate with your teammate during the game. Those skills would be useful during the fight and map rotation.,27
+#,27,Horizon,Choose the weapon and legend based on your play-style. Sometimes they could make a big difference during the fight.,25
+#,28,Bloodhound,Good luck Legend! There would be a day for you to become the APEX Predator. See you in the game!,29
+#,29, ,THE END,30
+END,29,,,
